@@ -1,5 +1,5 @@
 # Answer
-answer of some of question
+My answer of some questions
 ## 目录
   -[米哈游24春招](#米哈游24春招实习笔试)
   
@@ -7,8 +7,10 @@ answer of some of question
 
 
 
-  ## 米哈游24春招实习笔试
 
+## 米哈游24春招实习笔试
+
+![第一题](.main/question.mi24-1.png)
 
 ```
 int main()
