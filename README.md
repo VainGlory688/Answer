@@ -10,7 +10,7 @@ My answer of some questions
 
 ## 米哈游24春招实习笔试
 
-![第一题](.main/question.mi24-1.png)
+![mi24-1](./question.mi24-1.png)
 
 ```
 int main()
